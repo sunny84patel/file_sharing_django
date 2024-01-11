@@ -1,1 +1,1 @@
-# file_sharing_django
+# file_sharing Application using Django Rest framework
